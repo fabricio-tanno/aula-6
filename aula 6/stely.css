@@ -1,0 +1,81 @@
+.header__home{
+    background-color: rgb(30, 30, 30);
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.titulo__home{
+    text-align: center;
+    vertical-align: middle;
+   
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+
+}
+.botoes__home{
+    background-color: rgb(30, 30, 30);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 8px;
+    text-decoration: 0;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}   
+.botoes{
+    text-align: center;
+    margin: 10px;
+    margin-top: 15px;
+
+}
+
+.grid__container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    padding: 50px;
+   
+    
+  
+}
+.grid__item{
+   background-color: rgb(253, 255, 255);
+   padding: 0px;
+   border: 3pc;
+   margin: 1.4pc;
+   border-radius: 10px;
+   border: solid 1px;
+   border-color: gray;
+
+    
+}
+body{
+  
+   background-color: rgb(226, 226, 226);
+}
+
+
+.img{
+
+    margin: 5px;
+}
+main figcaption{
+
+    text-align: center;
+
+}
+main hr{
+
+    border: solid 2px;
+    border-radius: 2px;
+}
+.img__2{
+
+    text-align: center;
+    padding: 10px;
+}
+.div__text{
+
+    padding: 10px;
+}
